@@ -1,0 +1,14 @@
+name: credit-banking
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - openpyxl
+  - xlrd
+  - jupyterlab
